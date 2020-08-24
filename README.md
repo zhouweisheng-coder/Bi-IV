@@ -1,2 +1,2 @@
-# Bi-IV
-Business Intelligence Direction Phase IV
+# 四期Bi名企，周蔚生
+
