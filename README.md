@@ -4,4 +4,4 @@
 
 ## 名企班作业
 
-[week1：第一章 数据采集与实战作业](https://github.com/zhouyusheng-coder/Bi-IV/tree/master/%E5%9B%9B%E6%9C%9FBi%E5%90%8D%E4%BC%81%E7%8F%AD%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E4%B8%8E%E5%AE%9E%E6%88%98)
+[week1：第一章：数据采集与实战作业](https://github.com/zhouyusheng-coder/Bi-IV/tree/master/%E5%9B%9B%E6%9C%9FBi%E5%90%8D%E4%BC%81%E7%8F%AD%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E4%B8%8E%E5%AE%9E%E6%88%98)
