@@ -12,6 +12,12 @@
 
 [week6：第六章 预测全家桶与机器学习神器](https://github.com/zhouyusheng-coder/Bi-IV/tree/master/%E5%9B%9B%E6%9C%9FBi%E6%A0%B8%E5%BF%83%E7%8F%AD%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E9%A2%84%E6%B5%8B%E5%85%A8%E5%AE%B6%E6%A1%B6%E4%B8%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%A5%9E%E5%99%A8)
 
+[week7：第七章 神经网络基础与移动推荐系统](https://github.com/zhouyusheng-coder/Bi-IV/tree/master/%E5%9B%9B%E6%9C%9FBi%E6%A0%B8%E5%BF%83%E7%8F%AD%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80%E4%B8%8E%E7%A7%BB%E5%8A%A8%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F)
+
+[week8：第八章 时间序列分析](https://github.com/zhouyusheng-coder/Bi-IV/tree/master/%E5%9B%9B%E6%9C%9FBi%E6%A0%B8%E5%BF%83%E7%8F%AD%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E5%88%86%E6%9E%90)
+
+[week9：第九章 循环神经网络与预测](https://github.com/zhouyusheng-coder/Bi-IV/tree/master/%E5%9B%9B%E6%9C%9FBi%E6%A0%B8%E5%BF%83%E7%8F%AD%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E4%B9%9D%E7%AB%A0%20%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%8E%E9%A2%84%E6%B5%8B)
+
 ## 名企班
 
 [week1：第一章 数据采集与实战](https://github.com/zhouyusheng-coder/Bi-IV/tree/master/%E5%9B%9B%E6%9C%9FBi%E5%90%8D%E4%BC%81%E7%8F%AD%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E4%B8%8E%E5%AE%9E%E6%88%98)
@@ -25,4 +31,8 @@
 [week5：第五章 CTR预估算法与基于流行度的推荐](https://github.com/zhouyusheng-coder/Bi-IV/tree/master/%E5%9B%9B%E6%9C%9FBi%E5%90%8D%E4%BC%81%E7%8F%AD%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E4%BA%94%E7%AB%A0%20CTR%E9%A2%84%E4%BC%B0%E7%AE%97%E6%B3%95%E4%B8%8E%E5%9F%BA%E4%BA%8E%E6%B5%81%E8%A1%8C%E5%BA%A6%E7%9A%84%E6%8E%A8%E8%8D%90)
 
 [week6：第六章 近似最近邻查找与YouTube推荐系统](https://github.com/zhouyusheng-coder/Bi-IV/tree/master/%E5%9B%9B%E6%9C%9FBi%E5%90%8D%E4%BC%81%E7%8F%AD%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E8%BF%91%E4%BC%BC%E6%9C%80%E8%BF%91%E9%82%BB%E6%9F%A5%E6%89%BE%E4%B8%8EYouTube%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F)
+
+[week7：第七章 深度卷积网络与实战](https://github.com/zhouyusheng-coder/Bi-IV/tree/master/%E5%9B%9B%E6%9C%9FBi%E5%90%8D%E4%BC%81%E7%8F%AD%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E6%B7%B1%E5%BA%A6%E5%8D%B7%E7%A7%AF%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%AE%9E%E6%88%98)
+
+[week8：第八章 时间序列实战与分布式推荐系统](https://github.com/zhouyusheng-coder/Bi-IV/tree/master/%E5%9B%9B%E6%9C%9FBi%E5%90%8D%E4%BC%81%E7%8F%AD%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E5%AE%9E%E6%88%98%E4%B8%8E%E5%88%86%E5%B8%83%E5%BC%8F%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F)
 
