@@ -1,4 +1,7 @@
-# 四期Bi名企班_Yusheng Zhou
+# 人工智能培养计划-数据挖掘与高级商业分析
+
+参加开课吧为期7个月的人工智能培养计划，更加系统的学习了机器学习、深度学习相关理论及实战，实战项目包含推荐系统、自然语言处理、数据挖掘及路径规划等项目。
+
 ## 核心班
 [week1：第一章 商业智能与推荐系统](https://github.com/zhouyusheng-coder/Bi-IV/tree/master/%E5%9B%9B%E6%9C%9FBi%E6%A0%B8%E5%BF%83%E7%8F%AD%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E5%95%86%E4%B8%9A%E6%99%BA%E8%83%BD%E4%B8%8E%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E4%BD%9C%E4%B8%9A)
 
@@ -18,6 +21,17 @@
 
 [week9：第九章 循环神经网络与预测](https://github.com/zhouyusheng-coder/Bi-IV/tree/master/%E5%9B%9B%E6%9C%9FBi%E6%A0%B8%E5%BF%83%E7%8F%AD%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E4%B9%9D%E7%AB%A0%20%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%8E%E9%A2%84%E6%B5%8B)
 
+[week10：第十章 PageRank、图论与推荐系统](https://github.com/zhouyusheng-coder/Bi-IV/tree/master/%E5%9B%9B%E6%9C%9FBi%E6%A0%B8%E5%BF%83%E7%8F%AD%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E5%8D%81%E7%AB%A0%20PageRank%E3%80%81%E5%9B%BE%E8%AE%BA%E4%B8%8E%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F)
+
+[week11：第十一章 Graph Embedding](https://github.com/zhouyusheng-coder/Bi-IV/tree/master/%E5%9B%9B%E6%9C%9FBi%E6%A0%B8%E5%BF%83%E7%8F%AD%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AB%A0%20Graph%20Embedding)
+
+[week12：第十二章 Graph Convolution Networks](https://github.com/zhouyusheng-coder/Bi-IV/tree/master/%E5%9B%9B%E6%9C%9FBi%E6%A0%B8%E5%BF%83%E7%8F%AD%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E5%8D%81%E4%BA%8C%E7%AB%A0%20Graph%20Convolution%20Networks)
+
+[week13：第十三章 机器学习与启发式算法](https://github.com/zhouyusheng-coder/Bi-IV/tree/master/%E5%9B%9B%E6%9C%9FBi%E6%A0%B8%E5%BF%83%E7%8F%AD%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E5%8D%81%E4%B8%89%E7%AB%A0%20%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%8E%E5%90%AF%E5%8F%91%E5%BC%8F%E7%AE%97%E6%B3%95)
+
+[week14：第十四章 路径规划](https://github.com/zhouyusheng-coder/Bi-IV/tree/master/%E5%9B%9B%E6%9C%9FBi%E6%A0%B8%E5%BF%83%E7%8F%AD%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E5%8D%81%E5%9B%9B%E7%AB%A0%20%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92)
+
+
 ## 名企班
 
 [week1：第一章 数据采集与实战](https://github.com/zhouyusheng-coder/Bi-IV/tree/master/%E5%9B%9B%E6%9C%9FBi%E5%90%8D%E4%BC%81%E7%8F%AD%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E4%B8%8E%E5%AE%9E%E6%88%98)
@@ -35,4 +49,30 @@
 [week7：第七章 深度卷积网络与实战](https://github.com/zhouyusheng-coder/Bi-IV/tree/master/%E5%9B%9B%E6%9C%9FBi%E5%90%8D%E4%BC%81%E7%8F%AD%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E6%B7%B1%E5%BA%A6%E5%8D%B7%E7%A7%AF%E7%BD%91%E7%BB%9C%E4%B8%8E%E5%AE%9E%E6%88%98)
 
 [week8：第八章 时间序列实战与分布式推荐系统](https://github.com/zhouyusheng-coder/Bi-IV/tree/master/%E5%9B%9B%E6%9C%9FBi%E5%90%8D%E4%BC%81%E7%8F%AD%E4%BD%9C%E4%B8%9A/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E5%AE%9E%E6%88%98%E4%B8%8E%E5%88%86%E5%B8%83%E5%BC%8F%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F)
+
+## 智慧物流—订单配送规划
+
+[week1：第一章 模型融合与智能预测](https://github.com/zhouyusheng-coder/Bi-IV/tree/master/Bi%E6%99%BA%E6%85%A7%E7%89%A9%E6%B5%81%E2%80%94%E8%AE%A2%E5%8D%95%E9%85%8D%E9%80%81%E8%A7%84%E5%88%92/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E6%A8%A1%E5%9E%8B%E8%9E%8D%E5%90%88%E4%B8%8E%E6%99%BA%E8%83%BD%E9%A2%84%E6%B5%8B)
+
+[week2：第二章 智能供应链](https://github.com/zhouyusheng-coder/Bi-IV/tree/master/Bi%E6%99%BA%E6%85%A7%E7%89%A9%E6%B5%81%E2%80%94%E8%AE%A2%E5%8D%95%E9%85%8D%E9%80%81%E8%A7%84%E5%88%92/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E6%99%BA%E8%83%BD%E4%BE%9B%E5%BA%94%E9%93%BE)
+
+[week3：第三章 智能供应链(二)](https://github.com/zhouyusheng-coder/Bi-IV/tree/master/Bi%E6%99%BA%E6%85%A7%E7%89%A9%E6%B5%81%E2%80%94%E8%AE%A2%E5%8D%95%E9%85%8D%E9%80%81%E8%A7%84%E5%88%92/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E6%99%BA%E8%83%BD%E4%BE%9B%E5%BA%94%E9%93%BE(%E4%BA%8C))
+
+[week4：第四章 常见规划问题](https://github.com/zhouyusheng-coder/Bi-IV/tree/master/Bi%E6%99%BA%E6%85%A7%E7%89%A9%E6%B5%81%E2%80%94%E8%AE%A2%E5%8D%95%E9%85%8D%E9%80%81%E8%A7%84%E5%88%92/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E5%B8%B8%E8%A7%81%E8%A7%84%E5%88%92%E9%97%AE%E9%A2%98)
+
+[week5：第五章 常见规划问题2](https://github.com/zhouyusheng-coder/Bi-IV/tree/master/Bi%E6%99%BA%E6%85%A7%E7%89%A9%E6%B5%81%E2%80%94%E8%AE%A2%E5%8D%95%E9%85%8D%E9%80%81%E8%A7%84%E5%88%92/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E5%B8%B8%E8%A7%81%E8%A7%84%E5%88%92%E9%97%AE%E9%A2%982)
+
+[week6：第六章 资金流入流出预测](https://github.com/zhouyusheng-coder/Bi-IV/tree/master/Bi%E6%99%BA%E6%85%A7%E7%89%A9%E6%B5%81%E2%80%94%E8%AE%A2%E5%8D%95%E9%85%8D%E9%80%81%E8%A7%84%E5%88%92/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E8%B5%84%E9%87%91%E6%B5%81%E5%85%A5%E6%B5%81%E5%87%BA%E9%A2%84%E6%B5%8B)
+
+[week7：第七章 逻辑回归与采购决策](https://github.com/zhouyusheng-coder/Bi-IV/tree/master/Bi%E6%99%BA%E6%85%A7%E7%89%A9%E6%B5%81%E2%80%94%E8%AE%A2%E5%8D%95%E9%85%8D%E9%80%81%E8%A7%84%E5%88%92/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92%E4%B8%8E%E9%87%87%E8%B4%AD%E5%86%B3%E7%AD%96)
+
+[week8：第八章 逻辑回归与采购决策2](https://github.com/zhouyusheng-coder/Bi-IV/tree/master/Bi%E6%99%BA%E6%85%A7%E7%89%A9%E6%B5%81%E2%80%94%E8%AE%A2%E5%8D%95%E9%85%8D%E9%80%81%E8%A7%84%E5%88%92/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92%E4%B8%8E%E9%87%87%E8%B4%AD%E5%86%B3%E7%AD%962)
+
+## 资金流入流出预测
+
+[week1：第一章 时间序列分析](https://github.com/zhouyusheng-coder/Bi-IV/tree/master/Bi%E8%B5%84%E9%87%91%E6%B5%81%E5%85%A5%E6%B5%81%E5%87%BA%E9%A2%84%E6%B5%8B/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E5%88%86%E6%9E%90)
+
+[week2：第二章 时间序列实战](https://github.com/zhouyusheng-coder/Bi-IV/tree/master/Bi%E8%B5%84%E9%87%91%E6%B5%81%E5%85%A5%E6%B5%81%E5%87%BA%E9%A2%84%E6%B5%8B/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E5%AE%9E%E6%88%98)
+
+[week3：第三章 资金流入流出预测](https://github.com/zhouyusheng-coder/Bi-IV/tree/master/Bi%E8%B5%84%E9%87%91%E6%B5%81%E5%85%A5%E6%B5%81%E5%87%BA%E9%A2%84%E6%B5%8B/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E8%B5%84%E9%87%91%E6%B5%81%E5%85%A5%E6%B5%81%E5%87%BA%E9%A2%84%E6%B5%8B)
 
